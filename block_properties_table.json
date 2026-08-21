@@ -12403,5 +12403,167 @@
         "friction": 0.6000000238418579,
         "hardness": 2.0,
         "opacity": 1.0
+    },
+    "minecraft:carpet": {
+        "blastResistance": 0.10000000149011612,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 0.10000000149011612,
+        "opacity": 0.11000001430511475
+    },
+    "minecraft:concrete": {
+        "blastResistance": 1.7999999523162842,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.7999999523162842,
+        "opacity": 1.0
+    },
+    "minecraft:concrete_powder": {
+        "blastResistance": 0.5,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 0.5,
+        "opacity": 1.0
+    },
+    "minecraft:coral": {
+        "blastResistance": 0.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 0.0,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:coral_fan": {
+        "blastResistance": 0.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 0.0,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:coral_fan_dead": {
+        "blastResistance": 0.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 0.0,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:fence": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:hard_stained_glass_pane": {
+        "blastResistance": 0.30000001192092896,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 0.30000001192092896,
+        "opacity": 0.0
+    },
+    "minecraft:leaves": {
+        "blastResistance": 0.20000000298023224,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.20000000298023224,
+        "opacity": 0.5
+    },
+    "minecraft:leaves2": {
+        "blastResistance": 0.20000000298023224,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.20000000298023224,
+        "opacity": 0.5
+    },
+    "minecraft:log": {
+        "blastResistance": 2.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 5,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 1.0
+    },
+    "minecraft:log2": {
+        "blastResistance": 2.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 5,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 1.0
+    },
+    "minecraft:planks": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 1.0
+    },
+    "minecraft:shulker_box": {
+        "blastResistance": 2.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 0.5
+    },
+    "minecraft:stained_glass": {
+        "blastResistance": 0.30000001192092896,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 0.30000001192092896,
+        "opacity": 0.0
+    },
+    "minecraft:stained_glass_pane": {
+        "blastResistance": 0.30000001192092896,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 0.30000001192092896,
+        "opacity": 0.0
+    },
+    "minecraft:wood": {
+        "blastResistance": 2.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 5,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 1.0
+    },
+    "minecraft:wool": {
+        "blastResistance": 0.800000011920929,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.800000011920929,
+        "opacity": 0.19999998807907104
     }
 }
