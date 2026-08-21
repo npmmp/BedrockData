@@ -12343,5 +12343,65 @@
         "friction": 0.6000000238418579,
         "hardness": 2.0,
         "opacity": 1.0
+    },
+    "minecraft:acacia_sign": {},
+    "minecraft:bamboo_sign": {},
+    "minecraft:birch_sign": {},
+    "minecraft:cherry_sign": {},
+    "minecraft:coral_block": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 5.0,
+        "opacity": 1.0
+    },
+    "minecraft:crimson_sign": {},
+    "minecraft:dark_oak_sign": {},
+    "minecraft:double_stone_block_slab": {},
+    "minecraft:hard_stained_glass": {
+        "blastResistance": 10.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 10.0,
+        "opacity": 0.0
+    },
+    "minecraft:jungle_sign": {},
+    "minecraft:light_block": {
+        "blastResistance": 0.30000001192092896,
+        "brightness": 15.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 0.30000001192092896,
+        "opacity": 0.0
+    },
+    "minecraft:mangrove_sign": {},
+    "minecraft:oak_sign": {},
+    "minecraft:pale_oak_sign": {},
+    "minecraft:poplar_sign": {},
+    "minecraft:raw_copper": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 5.0,
+        "opacity": 1.0
+    },
+    "minecraft:spruce_sign": {},
+    "minecraft:stone_block_slab": {},
+    "minecraft:warped_sign": {},
+    "minecraft:wooden_slab": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 1.0
     }
 }
